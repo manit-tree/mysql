@@ -1,6 +1,6 @@
 # MySQL
 
-run MySQL container on your development machine
+setup MySQL container on your development machine
 
 ### instruction
 
